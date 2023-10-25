@@ -15,12 +15,12 @@ int main() {
     cout << "Task 1" << endl;
     task1_function() ;
     cout << "Task 2" << endl;
-    task2_function()
+    task2_function() ;
     cout << "Task 3" << endl;
     // Written in the python!
     cout << "Task 4" << endl;
-    task4_function()
+    task4_function() ;
     cout << "Task 5" << endl;
-    task5_function()
+    task5_function() ;
     return 0;
 }

@@ -21,7 +21,7 @@ bool isCharacterAlive(const Coordinate& character, const Coordinate& enemy, int 
     return squaredDistance > distanceThreshold * distanceThreshold;
 }
 
-int task5_function()() {
+int task5_function() {
     int numEnemies;
     cout << "Enter the number of enemies: ";
     cin >> numEnemies;

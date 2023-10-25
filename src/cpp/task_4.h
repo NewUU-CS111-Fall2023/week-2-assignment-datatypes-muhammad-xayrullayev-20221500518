@@ -9,7 +9,7 @@
 
 using namespace std ;
 
-int task4_function()() {
+int task4_function(){
     string sentence, word;
     
 

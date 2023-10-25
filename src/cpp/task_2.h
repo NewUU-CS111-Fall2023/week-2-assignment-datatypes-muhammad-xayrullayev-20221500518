@@ -25,7 +25,7 @@ void corrector (int difference ) {
     }
 }    
 
-int task2_function()() {
+int task2_function(){
     int randomNumber , userNumber, difference ;
     srand(time(0)) ; 
 

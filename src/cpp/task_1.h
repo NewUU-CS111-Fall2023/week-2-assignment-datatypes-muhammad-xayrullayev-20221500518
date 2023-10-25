@@ -7,7 +7,7 @@
 #include <iostream>
 using namespace std;
 
-int task1_function()() {
+int task1_function() {
     int year;
     cout << "Hello Detective! Please tell me the year that you want to check: " << endl;
     cin >> year ;

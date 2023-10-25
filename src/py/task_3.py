@@ -14,5 +14,5 @@ def task3_function():
             print("Result of the division:", result)
             break
 
-if __name__ == "__main__":
-    main()
+if __name__ == "task_3":
+    task3_function()
